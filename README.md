@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/technology-earth-communications-U4FkC2VqpeNRHjTDQ5" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF1Z2MwbjZuaWxzdzJ3NHIybGMyYzJ1YWVwdjI2dHM5Ymt4bXMzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="100"/>
 </div>
 
 
