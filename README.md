@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdhaWx4Y3FydG1rZmN5a3Z6YTJramRrNGwwYmc1eDlxZ2RlNmhmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CV47COkGPZO3HG/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="mailto:elena.kichemasova@gmail.com">
+  <a href="mailto:elenakichemasova@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-ivory?logo=gmail&logoColor=multicolor&style=for-the-badge" alt="Gmail Badge"/>
 </a>
   <a href="https://t.me/Elena_Kichemasova">
