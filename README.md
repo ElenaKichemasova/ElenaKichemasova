@@ -3,6 +3,7 @@
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/mail-blue?logo=mail.ru&logoColor=orange&style=for-the-badge" alt="Mail Badge"/>
+  <img scr="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
 </div>
 
 - 👋 Hi, I’m @ElenaKichemasova
