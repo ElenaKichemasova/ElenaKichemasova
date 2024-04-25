@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## :woman_technologist: About Me :
+# :woman_technologist: About Me :
 - 👋 Hi, I’m ElenaKichemasova
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, Python
