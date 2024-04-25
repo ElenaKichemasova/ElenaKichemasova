@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="mailto:elena.kichemasova@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-light grey?logo=gmail&logoColor=multicolor&style=for-the-badge" alt="Gmail Badge"/>
+   <img src="https://img.shields.io/badge/Gmail-lightgrey?logo=gmail&logoColor=multicolor&style=for-the-badge" alt="Gmail Badge"/>
 </a>
   <a href="https://t.me/Elena_Kichemasova">
    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
