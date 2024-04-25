@@ -11,7 +11,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m ElenaKichemasova
+- 👋 Hi, I’m Elena Kichemasova
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, Python
 - 📫 Reach me by telegram, email
