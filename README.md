@@ -1,5 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdhaWx4Y3FydG1rZmN5a3Z6YTJramRrNGwwYmc1eDlxZ2RlNmhmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39CV47COkGPZO3HG/giphy.gif" width="100"/>
+<div id="header" align="center">
+  <h1>Hi there, I'm Elena</h1>
+  <h3>Data analyst from Saint-Petersburg</h3>
 </div>
 <div id="badges">
   <a href="mailto:elenakichemasova@gmail.com">
