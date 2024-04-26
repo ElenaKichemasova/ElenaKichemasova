@@ -17,7 +17,6 @@
 ### :woman_technologist: About Me :
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          " width="100"/>
 - 📫 Reach me by telegram, email
 - 😄 I speak Russian, English
   
